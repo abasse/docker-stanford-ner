@@ -1,5 +1,5 @@
 {
-  "name": "dadalytics-docker-stanford-ner",
+  "name": "docker-stanford-ner",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SemanticLab/DADAlytics-docker-stanford-ner.git"
+    "url": "githttps://github.com/abasse/docker-stanford-ner.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SemanticLab/DADAlytics-docker-stanford-ner/issues"
+    "url": "https://github.com/abasse/docker-stanford-ner/issues"
   },
-  "homepage": "https://github.com/SemanticLab/DADAlytics-docker-stanford-ner#readme",
+  "homepage": "https://github.com/abasse/docker-stanford-ner#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
